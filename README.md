@@ -1,4 +1,4 @@
-# Regression Analysis of Life Expectancy accross Continents
+# Regression Analysis of Life Expectancy across Continents
 
 
 ##  Part 1: Regression analysis of Gapmind Data
