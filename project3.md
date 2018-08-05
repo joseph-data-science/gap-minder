@@ -136,7 +136,7 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](img/output_5_0.png)
 
 
 ### Question 1
@@ -154,7 +154,7 @@ plt.show()
 ```
 
 
-![png](output_7_0.png)
+![png](img/img/output_7_0.png)
 
 
 ### Question 2
@@ -234,7 +234,7 @@ plt.show()
 
 
 
-![png](output_13_1.png)
+![png](img/output_13_1.png)
 
 
 ### Question 6
@@ -340,7 +340,7 @@ plt.show()
 ```
 
 
-![png](output_18_0.png)
+![png](img/output_18_0.png)
 
 
 ### Question 8 
@@ -360,7 +360,7 @@ plt.show()
 ```
 
 
-![png](output_21_0.png)
+![png](img/output_21_0.png)
 
 
 ### Question 9
@@ -429,7 +429,7 @@ for c in continents:
 
 
 
-![png](output_24_1.png)
+![png](img/output_24_1.png)
 
 
     Coefficients: 
@@ -439,7 +439,7 @@ for c in continents:
 
 
 
-![png](output_24_3.png)
+![png](img/output_24_3.png)
 
 
     Coefficients: 
@@ -449,7 +449,7 @@ for c in continents:
 
 
 
-![png](output_24_5.png)
+![png](img/output_24_5.png)
 
 
     Coefficients: 
@@ -459,7 +459,7 @@ for c in continents:
 
 
 
-![png](output_24_7.png)
+![png](img/output_24_7.png)
 
 
     Coefficients: 
@@ -469,7 +469,7 @@ for c in continents:
 
 
 
-![png](output_24_9.png)
+![png](img/output_24_9.png)
 
 
 ### Question 10
@@ -703,7 +703,7 @@ plt.show()
 
 
 
-![png](output_29_1.png)
+![png](img/output_29_1.png)
 
 
 ### Question 11
@@ -1008,7 +1008,7 @@ plt.show()
 ```
 
 
-![png](output_40_0.png)
+![png](img/output_40_0.png)
 
 
 ## Part 2: Classification
@@ -11083,7 +11083,7 @@ plt.show()
 ```
 
 
-![png](output_44_0.png)
+![png](img/output_44_0.png)
 
 
 ### Problem 3: Batch logistic regression
@@ -31218,7 +31218,7 @@ plt.show()
 ```
 
 
-![png](output_52_0.png)
+![png](img/output_52_0.png)
 
 
 ## Try it out section.
